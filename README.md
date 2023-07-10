@@ -1,1 +1,1 @@
-# slider02-reactjs
+# sliderv2.0-reactjs
